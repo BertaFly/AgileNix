@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/AgileNix/precache-manifest.2abd00230016f01f6ae00bf5e2174cd3.js"
+  "/AgileNix/precache-manifest.8a0825aded0e43f0b4d818aca66fcea2.js"
 );
 
 workbox.clientsClaim();

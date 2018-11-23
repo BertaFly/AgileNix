@@ -8,9 +8,9 @@
   "runtime~main.js": "/AgileNix/static/js/runtime~main.7c5f517e.js",
   "runtime~main.js.map": "/AgileNix/static/js/runtime~main.7c5f517e.js.map",
   "static/media/semantic.min.css": "/AgileNix/static/media/brand-icons.a1a749e8.svg",
-  "static/css/main.c961fad4.chunk.css.map": "/AgileNix/static/css/main.c961fad4.chunk.css.map",
   "static/css/1.de76f937.chunk.css.map": "/AgileNix/static/css/1.de76f937.chunk.css.map",
+  "static/css/main.c961fad4.chunk.css.map": "/AgileNix/static/css/main.c961fad4.chunk.css.map",
   "index.html": "/AgileNix/index.html",
-  "precache-manifest.2abd00230016f01f6ae00bf5e2174cd3.js": "/AgileNix/precache-manifest.2abd00230016f01f6ae00bf5e2174cd3.js",
+  "precache-manifest.8a0825aded0e43f0b4d818aca66fcea2.js": "/AgileNix/precache-manifest.8a0825aded0e43f0b4d818aca66fcea2.js",
   "service-worker.js": "/AgileNix/service-worker.js"
 }
